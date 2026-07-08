@@ -52,7 +52,7 @@ pipeline {
                 --region ap-south-1'''
             }
         }
-    
+    } 
 
     post {
         success {
