@@ -6,7 +6,7 @@ pipeline {
     tools {
         git 'Default'
         maven 'Maven-3.9.16'
-    }
+    } 
 
     stages {
         stage('Check out') {
